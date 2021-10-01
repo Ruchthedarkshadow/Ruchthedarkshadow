@@ -1,7 +1,7 @@
 hello I'm Ruchika
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Machine learning & Data science
+- 🌱 I’m currently learning Artificial Intelligence
+- 💞️ I’m looking to collaborate on project realted to AI/ML
 - 📫 you can contact me : ruchika.raj01@trigma.in or rajruchika1410@gmail.com
 
 <!---
